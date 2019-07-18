@@ -1,7 +1,8 @@
-# huolonglive 同传记录网站
+# huolonglive 的同传记录网站
 
-You can use the [editor on GitHub](https://github.com/huolonglive/huolonglive/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+ [点击这里来编辑网站](https://github.com/huolonglive/huolonglive/edit/master/README.md)
+ 
+总之我先开个坑，然后我要睡觉了ww
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
