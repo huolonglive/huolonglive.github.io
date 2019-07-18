@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# huolonglive 同传记录网站
 
 You can use the [editor on GitHub](https://github.com/huolonglive/huolonglive/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +35,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Lisence
+
+![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
